@@ -1,0 +1,7 @@
+venv
+.env
+
+local_embeddings
+financial_agent.py
+playground.py
+
